@@ -1,0 +1,1 @@
+void drawDigits0(int col, int row, int num, int oam);
